@@ -12,4 +12,9 @@ setup(
             'tidyout=tidyout.cli:main'
         ]
     },
+    license='MIT',
+    license_files = ('LICENSE',),
+    classifiers=[
+        'License :: OSI Approved :: MIT License',
+    ],
 )
