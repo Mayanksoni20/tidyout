@@ -16,7 +16,7 @@ dependencies = [
 Homepage = "https://github.com/mayanksoni20/tidyout"
 
 [tool.setuptools.packages.find]
-where = ["tidyout"]
+where = ["."]
 
 [build-system]
 requires = ["setuptools>=61.0"]
